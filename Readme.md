@@ -53,6 +53,10 @@ This portfolio highlights:
 - **Reporting**: Summarizing findings in clear and actionable reports.
 - **Technical Tools**: Utilizing Python libraries (Pandas, NumPy, etc.) and Jupyter notebooks for analysis.
 
+### Reports
+
+- See the report for [Project 1](https://github.com/vanbumi/Data-Analysis-Projects/blob/main/Project-1/reports/the-report.md)
+
 ## About Me
 
 I am a passionate data analyst dedicated to honing my skills through practical, hands-on projects. My goal is to leverage data to uncover meaningful insights and support decision-making processes.
